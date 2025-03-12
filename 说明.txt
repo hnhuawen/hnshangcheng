@@ -1,0 +1,30 @@
+后端：
+admin_dashboard.php (管理员后台)
+admin_login.php (管理员登录)
+admin_products.php（商品管理）
+add_product.php（添加商品）
+edit_product.php（编辑商品）
+delete_product.php（删除商品）
+admin_users.php（用户管理）
+admin_shipping.php (物流管理)
+admin_payments.php(支付管理) 
+admin_orders.php（订单管理）
+编辑订单 (admin_edit_order.php)
+编辑物流 (admin_edit_shipping.php)
+编辑支付方式 (admin_edit_payment.php)
+编辑用户 (admin_edit_user.php)
+view_order.php（查看订单详情）
+update_order_status.php（更新订单状态）
+view_user.php（查看用户详情）
+delete_user.php（删除用户）
+admin_styles.css (后端样式)
+
+前端：
+index.php (首页)
+login.php (登录页面)
+register.php (注册页面)
+logout.php (退出登录)
+db.php (数据库连接)
+styles.css (前端样式)
+profile.php (用户个人中心)
+buy.php（商品详情）
